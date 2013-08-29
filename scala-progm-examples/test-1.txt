@@ -1,5 +1,0 @@
-line1 1space
-line2 2spaces 2
-line3 3spaces 3 3
-line4 4spaces 4 4 4
-line5 5spaces 5 5 5 5
