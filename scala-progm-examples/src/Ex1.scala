@@ -1,7 +1,7 @@
 object Ex1 extends Application {
   def ex1() = {
     val greetStrings = new Array[String](3)
-    greetStrings(0) = "Hello 1"
+    greetStrings(0) = "Hello 2"
     greetStrings(1) = ", "
     greetStrings(2) = "world!\n"
     for (i <- 0 to 2)
